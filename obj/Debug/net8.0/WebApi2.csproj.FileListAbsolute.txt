@@ -1,0 +1,7 @@
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.csproj.AssemblyReference.cache
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.AssemblyInfoInputs.cache
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.AssemblyInfo.cs
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.csproj.CoreCompileInputs.cache
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.MvcApplicationPartsAssemblyInfo.cs
+/Users/emrahelis/WebApi2/obj/Debug/net8.0/WebApi2.MvcApplicationPartsAssemblyInfo.cache
