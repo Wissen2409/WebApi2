@@ -31,3 +31,4 @@
 /Users/emrahelis/WebApi2/obj/Debug/net9.0/WebApi2.pdb
 /Users/emrahelis/WebApi2/obj/Debug/net9.0/WebApi2.genruntimeconfig.cache
 /Users/emrahelis/WebApi2/obj/Debug/net9.0/ref/WebApi2.dll
+/Users/emrahelis/WebApi2/obj/Debug/net9.0/WebApi2.sourcelink.json
