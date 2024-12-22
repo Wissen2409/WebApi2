@@ -6,12 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 public class WissenController:ControllerBase
 {
     public IActionResult Get(){
-
-        // geriye product döndürelim 
-
+       // geriye product döndürelim 
         var products = new[]
         {
-
             new { Id =1, Name = "Kalem"},
 
             new { Id =2, Name = "Kağıt"},
@@ -24,7 +21,6 @@ public class WissenController:ControllerBase
 
             new { Id =6, Name = "Mouse"},
         };
-        return Unauthorized(products);
+        return Ok(products);
     }
-
 }

@@ -1,0 +1,9 @@
+/Users/emrahelis/WebApi2/publish/WebApi2
+/Users/emrahelis/WebApi2/publish/appsettings.Development.json
+/Users/emrahelis/WebApi2/publish/appsettings.json
+/Users/emrahelis/WebApi2/publish/WebApi2.dll
+/Users/emrahelis/WebApi2/publish/WebApi2.deps.json
+/Users/emrahelis/WebApi2/publish/WebApi2.runtimeconfig.json
+/Users/emrahelis/WebApi2/publish/WebApi2.pdb
+/Users/emrahelis/WebApi2/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/emrahelis/WebApi2/publish/Microsoft.OpenApi.dll
