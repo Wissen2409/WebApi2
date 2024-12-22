@@ -32,3 +32,9 @@
 /Users/emrahelis/WebApi2/obj/Debug/net9.0/WebApi2.genruntimeconfig.cache
 /Users/emrahelis/WebApi2/obj/Debug/net9.0/ref/WebApi2.dll
 /Users/emrahelis/WebApi2/obj/Debug/net9.0/WebApi2.sourcelink.json
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/web.config
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/appsettings.json
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/WebApi2.deps.json
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/WebApi2.runtimeconfig.json
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/WebApi2.staticwebassets.endpoints.json
