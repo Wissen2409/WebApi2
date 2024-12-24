@@ -38,3 +38,11 @@
 /Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/WebApi2.deps.json
 /Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/WebApi2.runtimeconfig.json
 /Users/emrahelis/WebApi2/bin/Debug/net9.0/publish/WebApi2.staticwebassets.endpoints.json
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emrahelis/WebApi2/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
