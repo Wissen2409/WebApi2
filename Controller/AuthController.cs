@@ -17,10 +17,10 @@ public class AuthController : ControllerBase
         this.Configuration = configuration;
     }
 
-    [HttpPost]
-    public IActionResult Login([FromBody] AuthModel model)
+    [HttpPost("login")]
+    public IActionResult Login(AuthModel model)
     {
-        if (model.UserName != USERNAME || model.Password != PASSWORD)
+        if (model.Username != USERNAME || model.Password != PASSWORD)
         {
             return Unauthorized("Geçersiz kullanıcı adı ve şifre");
         }
@@ -34,7 +34,7 @@ public class AuthController : ControllerBase
 
             Subject = new System.Security.Claims.ClaimsIdentity(new[]{
 
-                 new Claim(ClaimTypes.Name, model.UserName),
+                 new Claim(ClaimTypes.Name, model.Username),
                  new Claim(ClaimTypes.Role, "Admin")
 
 

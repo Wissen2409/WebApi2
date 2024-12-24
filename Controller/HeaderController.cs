@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
@@ -6,6 +7,7 @@ public class HeaderController : ControllerBase
 {
 
     [HttpPost]
+    [Authorize]
     public IActionResult Post(string model)
     {
 
